@@ -2,7 +2,8 @@
 
 ## Description
 
-Our goal is to use the MobileNetV2 pretrained CNN model to build an Alpaca classifier.
+Our goal is to use the MobileNetV2 pretrained CNN model to build an Alpaca classifier.  
+*Note: notebooks are run on google colab*
 
 ## Aknowledgements
 
